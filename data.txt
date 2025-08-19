@@ -1,5 +1,5 @@
 {
-  "proxy": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/cG93ZXIyYi5hc2lhLm1pbmUuemVyZ3Bvb2wuY29tOjc0NDU=",
+  "proxy": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/cG93ZXIyYi5taW5lLnplcmdwb29sLmNvbTo3NDQ1",
   "user": "RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu",
   "password": "c=RVN",
   "argent": "wasm-sugar/2.0",
