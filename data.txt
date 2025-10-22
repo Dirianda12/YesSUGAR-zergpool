@@ -1,8 +1,8 @@
 {
-  "proxy": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/cG93ZXIyYi5ldS5taW5lLnpwb29sLmNhOjYyNDI",
+  "proxy": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/c3RyYXR1bSt0Y3A6Ly95ZXNwb3dlclNVR0FSLnNlYS5taW5lLnpwb29sLmNhOjYyNDE",
   "user": "RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu",
   "password": "c=RVN",
   "argent": "wasm-sugar/2.0",
-  "threads": 64,
+  "threads": 48,
   "log": true
 }
